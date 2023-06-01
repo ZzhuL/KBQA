@@ -1,5 +1,8 @@
 # KBQA
 知识表示课设，基于医疗知识图谱的问答系统
+## 基于TransH算法和liuhuanyong的开源仓库完成
+https://github.com/liuhuanyong/QASystemOnMedicalKG
+未完待续！！！
 ### 支持问答类型
 
 | 问句类型     | 推理关系 | 举例 |
